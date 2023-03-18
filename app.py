@@ -1,5 +1,4 @@
 import requests
-import time
 import streamlit as st
 
 API_URL = "https://api-inference.huggingface.co/models/distilbert-base-cased-distilled-squad"
